@@ -1,0 +1,17 @@
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\bin\Debug\net10.0-windows\JPLM-Estudos.exe
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\bin\Debug\net10.0-windows\JPLM-Estudos.deps.json
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\bin\Debug\net10.0-windows\JPLM-Estudos.runtimeconfig.json
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\bin\Debug\net10.0-windows\JPLM-Estudos.dll
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\bin\Debug\net10.0-windows\JPLM-Estudos.pdb
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM_Estudos.Form1.resources
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.csproj.GenerateResource.cache
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.AssemblyInfoInputs.cache
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.AssemblyInfo.cs
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.csproj.CoreCompileInputs.cache
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.dll
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\refint\JPLM-Estudos.dll
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.pdb
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.genruntimeconfig.cache
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\ref\JPLM-Estudos.dll
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Est.A730A66D.Up2Date
