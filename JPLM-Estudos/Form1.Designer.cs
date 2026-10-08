@@ -47,15 +47,21 @@
             btnEnviar.Name = "btnEnviar";
             btnEnviar.Size = new Size(64, 26);
             btnEnviar.TabIndex = 1;
-            btnEnviar.Text = "button1";
+            btnEnviar.Text = "Enviar";
             btnEnviar.UseVisualStyleBackColor = true;
             btnEnviar.Click += btnEnviar_Click;
             // 
             // cardImg
             // 
+            cardImg.AllowUserToAddRows = false;
+            cardImg.AllowUserToDeleteRows = false;
+            cardImg.AllowUserToOrderColumns = true;
+            cardImg.AllowUserToResizeColumns = false;
+            cardImg.AllowUserToResizeRows = false;
             cardImg.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             cardImg.Location = new Point(55, 133);
             cardImg.Name = "cardImg";
+            cardImg.ReadOnly = true;
             cardImg.Size = new Size(700, 260);
             cardImg.TabIndex = 3;
             // 

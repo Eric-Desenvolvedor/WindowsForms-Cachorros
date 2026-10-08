@@ -15,3 +15,4 @@ C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-window
 C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.genruntimeconfig.cache
 C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\ref\JPLM-Estudos.dll
 C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Est.A730A66D.Up2Date
+C:\Users\Guibson\source\repos\JPLM-Estudos\JPLM-Estudos\obj\Debug\net10.0-windows\JPLM-Estudos.sourcelink.json

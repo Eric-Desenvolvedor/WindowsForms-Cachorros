@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JPLM-Estudos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3898c308c62678c0e67b403185a8015e8a93cba2")]
 [assembly: System.Reflection.AssemblyProductAttribute("JPLM-Estudos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JPLM-Estudos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
