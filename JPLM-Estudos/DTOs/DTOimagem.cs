@@ -2,7 +2,7 @@
 {
     internal class DTOimagem
     {
-        public List<string> Message { get; set; } = new();
+        public List<string> Message { get; set; } = [];
         public string Status { get; set; } = "";
     }
 }
